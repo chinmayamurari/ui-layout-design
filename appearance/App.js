@@ -8,11 +8,11 @@ import {
 } from 'react-native';
 import 'react-native-gesture-handler';
 import Banner from './src/container/Banner';
-import RecentlyPlayed from './src/container/RecentlyPlayed';
-import FeaturedEvent from './src/container/FeaturedEvents';
-import Fantasy from './src/container/Fantasy';
-import ChallengeToWin from './src/container/ChallengeToWin';
-import AllGames from './src/container/AllGames';
+import RecentlyPlayed from './src/containers/RecentlyPlayed';
+import FeaturedEvent from './src/containers/FeaturedEvents';
+import Fantasy from './src/containers/Fantasy';
+import ChallengeToWin from './src/containers/ChallengeToWin';
+import AllGames from './src/containers/AllGames';
 
 
 
